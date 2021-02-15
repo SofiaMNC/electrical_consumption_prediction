@@ -64,7 +64,7 @@ This notebook is organised as follows:
 **6. Conclusions**
 
 ___
-## Notebook 2 : Data Analysis
+## Notebook 2 : Modeling and Predictions
 
 This notebook is organized as follows:
 
