@@ -1,7 +1,7 @@
 # **Anticipating The Electrical Consumption of Buildings**
-*Sofia Chevrolat (June 2020)*
+*Sofia Chevrolat (July 2020)*
 
-> NB: This project is the first of a series comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+> NB: This project is the 3rd of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 This study in 2 notebooks aims to estimate the CO2 emissions and the total energy consumption of the buildings of the city of Seattle by exploiting the declarative data indicated in their commercial exploitation permits (size and use of the buildings, recent works, construction dates...) released by the city for the years 2015 and 2016.
 ___
