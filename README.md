@@ -3,6 +3,9 @@
 
 > NB: This project is the 3rd of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://madimedia.pro)
+
 This study in 2 notebooks aims to estimate the CO2 emissions and the total energy consumption of the buildings of the city of Seattle by exploiting the declarative data indicated in their commercial exploitation permits (size and use of the buildings, recent works, construction dates...) released by the city for the years 2015 and 2016.
 ___
 
