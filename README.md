@@ -1,7 +1,7 @@
 # **Anticipating The Electrical Consumption of Buildings**
 *Sofia Chevrolat (July 2020)*
 
-> NB: This project is the 3rd of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
+> NB: This project is the 4th of a series of 8 projects comprising [the syllabus offered by OpenClassrooms in partnership with Centrale Supélec and sanctioned by the Data Scientist diploma - Master level](https://openclassrooms.com/fr/paths/164-data-scientist).
 ___
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://madimedia.pro)
